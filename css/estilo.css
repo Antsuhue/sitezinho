@@ -1,0 +1,15 @@
+div{
+    padding-left: 50px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+
+    border-radius: 20px;
+    background-color:white;
+    color: yellowgreen;
+    text-align: justify;
+    box-shadow: 200px;
+
+}
+body{
+    background-color: antiquewhite
+}
